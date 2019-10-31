@@ -7,6 +7,9 @@
          <class name = "com.training.sanity.tests.RetailRemoveRTTC_010" />
          <class name = "com.training.sanity.tests.RetailLoginTestsRTTC_011" />
          <class name = "com.training.sanity.tests.RetaillistofcategoriestestRTTC_012" />
+         <class name = "com.training.sanity.tests.DeleteMultipleCategoryRTTC_040" />
+         <class name = "com.training.sanity.tests.FilterProductDetailsRTTC_41" />
+         <class name = "com.training.sanity.tests.AddProductRTTC_42" />         
       </classes>
    </test>
 </suite>	

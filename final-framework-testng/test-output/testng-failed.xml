@@ -5,8 +5,8 @@
     <classes>
       <class name="com.training.sanity.tests.DeleteMultipleCategoryRTTC_040">
         <methods>
-          <include name="listofcategoriestest"/>
           <include name="setUp"/>
+          <include name="deletecategoriestest"/>
           <include name="setUpBeforeClass"/>
         </methods>
       </class> <!-- com.training.sanity.tests.DeleteMultipleCategoryRTTC_040 -->

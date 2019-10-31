@@ -1,65 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Sample test Suite" duration-ms="84994" started-at="2019-10-29T09:50:00 IST" finished-at="2019-10-29T09:51:25 IST">
+  <suite name="Sample test Suite" duration-ms="162961" started-at="2019-10-31T14:16:26 IST" finished-at="2019-10-31T14:19:09 IST">
     <groups>
     </groups>
-    <test name="Sample test" duration-ms="84994" started-at="2019-10-29T09:50:00 IST" finished-at="2019-10-29T09:51:25 IST">
+    <test name="Sample test" duration-ms="162961" started-at="2019-10-31T14:16:26 IST" finished-at="2019-10-31T14:19:09 IST">
       <class name="com.training.sanity.tests.RetailLoginTestsRTTC_011">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@3b084709]" name="setUpBeforeClass" is-config="true" duration-ms="1" started-at="2019-10-29T09:50:58 IST" finished-at="2019-10-29T09:50:58 IST">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@1efed156]" name="setUpBeforeClass" is-config="true" duration-ms="1" started-at="2019-10-31T14:17:22 IST" finished-at="2019-10-31T14:17:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@3b084709]" name="setUp" is-config="true" duration-ms="7441" started-at="2019-10-29T09:50:58 IST" finished-at="2019-10-29T09:51:05 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@1efed156]" name="setUp" is-config="true" duration-ms="8439" started-at="2019-10-31T14:17:22 IST" finished-at="2019-10-31T14:17:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="retailLoginTest()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@3b084709]" name="retailLoginTest" duration-ms="2272" started-at="2019-10-29T09:51:05 IST" finished-at="2019-10-29T09:51:07 IST">
+        <test-method status="PASS" signature="retailLoginTest()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@1efed156]" name="retailLoginTest" duration-ms="2377" started-at="2019-10-31T14:17:31 IST" finished-at="2019-10-31T14:17:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- retailLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@3b084709]" name="tearDown" is-config="true" duration-ms="2300" started-at="2019-10-29T09:51:07 IST" finished-at="2019-10-29T09:51:10 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetailLoginTestsRTTC_011@1efed156]" name="tearDown" is-config="true" duration-ms="2347" started-at="2019-10-31T14:17:33 IST" finished-at="2019-10-31T14:17:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.training.sanity.tests.RetailLoginTestsRTTC_011 -->
       <class name="com.training.sanity.tests.RetailRemoveRTTC_010">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@57855c9a]" name="setUpBeforeClass" is-config="true" duration-ms="26" started-at="2019-10-29T09:50:00 IST" finished-at="2019-10-29T09:50:00 IST">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@63e2203c]" name="setUpBeforeClass" is-config="true" duration-ms="17" started-at="2019-10-31T14:16:26 IST" finished-at="2019-10-31T14:16:26 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@57855c9a]" name="setUp" is-config="true" duration-ms="16750" started-at="2019-10-29T09:50:00 IST" finished-at="2019-10-29T09:50:17 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@63e2203c]" name="setUp" is-config="true" duration-ms="16403" started-at="2019-10-31T14:16:26 IST" finished-at="2019-10-31T14:16:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="removefromcart()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@57855c9a]" name="removefromcart" duration-ms="38270" started-at="2019-10-29T09:50:17 IST" finished-at="2019-10-29T09:50:55 IST">
+        <test-method status="PASS" signature="removefromcart()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@63e2203c]" name="removefromcart" duration-ms="37113" started-at="2019-10-31T14:16:43 IST" finished-at="2019-10-31T14:17:20 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- removefromcart -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@57855c9a]" name="tearDown" is-config="true" duration-ms="2679" started-at="2019-10-29T09:50:55 IST" finished-at="2019-10-29T09:50:58 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetailRemoveRTTC_010@63e2203c]" name="tearDown" is-config="true" duration-ms="2602" started-at="2019-10-31T14:17:20 IST" finished-at="2019-10-31T14:17:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.training.sanity.tests.RetailRemoveRTTC_010 -->
       <class name="com.training.sanity.tests.RetaillistofcategoriestestRTTC_012">
-        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@3224f60b]" name="setUpBeforeClass" is-config="true" duration-ms="1" started-at="2019-10-29T09:51:10 IST" finished-at="2019-10-29T09:51:10 IST">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@6737fd8f]" name="setUpBeforeClass" is-config="true" duration-ms="1" started-at="2019-10-31T14:17:35 IST" finished-at="2019-10-31T14:17:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpBeforeClass -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@3224f60b]" name="setUp" is-config="true" duration-ms="8444" started-at="2019-10-29T09:51:10 IST" finished-at="2019-10-29T09:51:18 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@6737fd8f]" name="setUp" is-config="true" duration-ms="7745" started-at="2019-10-31T14:17:36 IST" finished-at="2019-10-31T14:17:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="listofcategoriestest()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@3224f60b]" name="listofcategoriestest" duration-ms="4008" started-at="2019-10-29T09:51:18 IST" finished-at="2019-10-29T09:51:22 IST">
+        <test-method status="PASS" signature="listofcategoriestest()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@6737fd8f]" name="listofcategoriestest" duration-ms="3568" started-at="2019-10-31T14:17:43 IST" finished-at="2019-10-31T14:17:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- listofcategoriestest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@3224f60b]" name="tearDown" is-config="true" duration-ms="2740" started-at="2019-10-29T09:51:22 IST" finished-at="2019-10-29T09:51:25 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.RetaillistofcategoriestestRTTC_012@6737fd8f]" name="tearDown" is-config="true" duration-ms="2286" started-at="2019-10-31T14:17:47 IST" finished-at="2019-10-31T14:17:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.training.sanity.tests.RetaillistofcategoriestestRTTC_012 -->
+      <class name="com.training.sanity.tests.AddProductRTTC_42">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.AddProductRTTC_42@68bbe345]" name="setUpBeforeClass" is-config="true" duration-ms="0" started-at="2019-10-31T14:18:44 IST" finished-at="2019-10-31T14:18:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.AddProductRTTC_42@68bbe345]" name="setUp" is-config="true" duration-ms="7713" started-at="2019-10-31T14:18:44 IST" finished-at="2019-10-31T14:18:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addproducttest()[pri:0, instance:com.training.sanity.tests.AddProductRTTC_42@68bbe345]" name="addproducttest" duration-ms="14391" started-at="2019-10-31T14:18:52 IST" finished-at="2019-10-31T14:19:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproducttest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.AddProductRTTC_42@68bbe345]" name="tearDown" is-config="true" duration-ms="2562" started-at="2019-10-31T14:19:07 IST" finished-at="2019-10-31T14:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.AddProductRTTC_42 -->
+      <class name="com.training.sanity.tests.FilterProductDetailsRTTC_41">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.FilterProductDetailsRTTC_41@a7e666]" name="setUpBeforeClass" is-config="true" duration-ms="1" started-at="2019-10-31T14:18:24 IST" finished-at="2019-10-31T14:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.FilterProductDetailsRTTC_41@a7e666]" name="setUp" is-config="true" duration-ms="7868" started-at="2019-10-31T14:18:24 IST" finished-at="2019-10-31T14:18:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletecategoriestest()[pri:0, instance:com.training.sanity.tests.FilterProductDetailsRTTC_41@a7e666]" name="deletecategoriestest" duration-ms="9886" started-at="2019-10-31T14:18:32 IST" finished-at="2019-10-31T14:18:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecategoriestest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.FilterProductDetailsRTTC_41@a7e666]" name="tearDown" is-config="true" duration-ms="2424" started-at="2019-10-31T14:18:42 IST" finished-at="2019-10-31T14:18:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.FilterProductDetailsRTTC_41 -->
+      <class name="com.training.sanity.tests.DeleteMultipleCategoryRTTC_040">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.DeleteMultipleCategoryRTTC_040@72b6cbcc]" name="setUpBeforeClass" is-config="true" duration-ms="0" started-at="2019-10-31T14:17:49 IST" finished-at="2019-10-31T14:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.DeleteMultipleCategoryRTTC_040@72b6cbcc]" name="setUp" is-config="true" duration-ms="7636" started-at="2019-10-31T14:17:49 IST" finished-at="2019-10-31T14:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletecategoriestest()[pri:0, instance:com.training.sanity.tests.DeleteMultipleCategoryRTTC_040@72b6cbcc]" name="deletecategoriestest" duration-ms="27503" started-at="2019-10-31T14:17:57 IST" finished-at="2019-10-31T14:18:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecategoriestest -->
+      </class> <!-- com.training.sanity.tests.DeleteMultipleCategoryRTTC_040 -->
     </test> <!-- Sample test -->
   </suite> <!-- Sample test Suite -->
 </testng-results>
